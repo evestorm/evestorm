@@ -13,6 +13,7 @@ Hi guys, I'm Lance Yang. I am a Front-end web developer & iOS developer from Wuh
 
 - [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 - [RedwoodJS](https://redwoodjs.com/)
+- Music
 
 ## 📫 Contact Me
 
