@@ -1,6 +1,6 @@
 ## 👋 Introduction
 
-Hi guys, I'm Lance Yang. I am a Front-end web developer & iOS developer from Wuhan, China. I'm currently working on @Huaxin Cement Co.,Ltd as a Front-End engineer.
+Hi guys, I'm Lance Yang. I am a Front-end web developer & iOS developer from Wuhan, China. I'm currently working on [@Huaxin Cement Co.,Ltd](https://www.huaxincem.com/) as a Front-End engineer.
 
 ## 🌴 Languages and Frameworks
 
